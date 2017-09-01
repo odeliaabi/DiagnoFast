@@ -1,0 +1,107 @@
+h3
+{
+	background-color: rgb(98,170,185);
+	font-size: auto;
+	font-family: Georgia;
+	text-align: center;
+}
+
+div#bandeau {
+	height: 90px;
+	background-color:#98FB98;
+	font-size:2em;
+
+	}
+
+body
+{
+	background-color: rgba(98,170,185,0.2);
+}
+	
+
+div#contenu {
+	height: 800px;	
+	font-size: x-large;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: row;
+
+	
+
+
+	
+	}	
+.c1
+{
+	width:350px;
+		flex-direction: column;
+
+}
+
+.c1
+{
+	
+		flex-direction: row;
+	justify-content:center;
+}
+
+
+	div#piedpage {
+	height: 100px;
+	background-color:#008080;
+	font-size: 2em;
+	font-family: Georgia;
+	color:  white;
+	}
+
+
+form
+{
+	display: flex;
+	flex-direction: row;
+	
+	
+}
+
+.Regim_secu
+{
+	 border: 1px outset rgb(14,112,36);	
+	 margin: 10px;
+	 padding:10px;
+	 background-color: rgba(98,170,185,0.4);
+}
+
+.Personne_contact
+{
+	border: 1px outset black;	
+	 margin: 10px;
+	 padding:10px;
+	 background-color: rgba(98,170,185,0.4);
+}
+
+section
+{
+	
+	margin: 15px;
+	padding:10px;
+	background-color: white;
+	background-color: rgba(98,170,185,0.4);
+	
+}
+
+a
+{
+	color:black;
+}
+
+
+div#piedpage {
+	height: 100px;
+	background-color:#008080;
+	font-size: 2em;
+	font-family: Georgia;
+	color:  white;
+	}
+
+
+

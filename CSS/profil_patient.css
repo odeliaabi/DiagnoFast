@@ -1,0 +1,108 @@
+body
+{
+	
+	display: flex;
+	flex-direction: column;
+	
+	
+}
+div#bandeau{
+	height: 80px;
+}
+
+section
+{
+	width: 250px; /* On a indiqué une largeur (obligatoire) */
+	height: 450px;
+    border: 2px outset rgb(56,61,226);
+    padding: 12px;
+    margin: 25px;
+	overflow: auto;
+	word-wrap:break-word;
+	
+	text-align:center;
+	color:navy;
+	
+	border-radius:20px;
+	
+}
+
+.cc3
+{
+	background-color: rgba(98,170,185,0.6);
+	border: 4px outset rgb(98,170,185);
+	
+}
+
+.cc2
+{
+	background-color: rgba(98,106,185,0.6);
+	border: 4px outset rgb(98,106,185);
+}
+
+.cc1
+{
+	background-color: rgba(252,93,93,0.4);
+	border: 4px outset rgba(89,0,45,0.6);
+}
+
+
+.cc4
+{
+	background-color: rgba(255,153,51,0.6);
+	border: 4px outset rgb(255,153,51);
+}
+
+
+a
+{
+text-decoration:none;
+color:black;
+font-weight: bold;
+}
+
+img
+{
+	border: 2px outset white;
+	box-shadow: 6px 6px 6px white;
+	margin-top: 50px;
+	
+}
+
+
+header h2
+{
+	color: rgb(14,112,36);
+}
+
+
+.bandeau {
+	height: 90px;
+	background-color:#98FB98;
+	font-size:auto;
+	text-align: center;
+
+	}
+.message{
+	font-size: 1.5em;
+}
+
+.contenu {
+    display: flex;
+	flex-direction: row;
+	justify-content: center;
+    align-items: center;
+	height: 600px;	
+	overflow: none;
+	word-wrap:break-word;
+	font-size: auto;
+	}
+
+.piedpage {
+	height: 100px;
+	background-color:#008080;
+	font-size: 2em;
+	font-family: Georgia;
+	color:  white;
+	}
+

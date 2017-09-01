@@ -1,0 +1,65 @@
+div#bandeau {
+	height: 100px;
+	background-color:#98FB98;
+	font-size:2em;
+
+	top:2px;
+	width: 100%;
+	
+	margin-bottom : 10px;
+
+	}
+	
+	
+div#piedpage {
+	height: 100px;
+	background-color:#008080;
+	font-size: 1.5em;
+	font-family: Georgia;
+	color:  white;
+	width : 100%;
+	
+	position:absolute;
+	top:4300px;
+	bottom:0px;
+		margin-bottom: 0;
+
+	}
+
+
+div#contenu {
+	height: 1300px;	
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10%;
+	width: 50em;
+	padding: 10%;
+	background-color:white;
+		
+	}
+	
+body
+{
+		
+	
+	min-height: 100%;
+		justify-content: center;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+div#temp{
+background-color: #FDF5E6;
+}
+div#IG{
+background-color: rgb(143,211,248);
+}
+div#PA{
+background-color: #FDF5E6;
+}
+div#FC{
+background-color: rgb(171,250,232);
+}
+
+

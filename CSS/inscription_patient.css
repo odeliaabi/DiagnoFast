@@ -1,0 +1,20 @@
+
+div#formulaire{
+background-color:white;
+	position:absolute;
+	top:200px;
+	left:550px;
+	font-family: Georgia;
+	height: 600px;	
+	width: 800px;
+	font-family: Georgia;
+	font-size: 1.5em;
+}
+div #bandeau{
+	height: 60px;
+}
+
+div #contenu center{
+	padding: 2px;
+	text-align: justify;
+}

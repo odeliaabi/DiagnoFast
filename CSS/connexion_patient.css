@@ -1,0 +1,11 @@
+div#formulaire{
+background-color:white;
+	position:absolute;
+	top:300px;
+	left:550px;
+	font-family: Georgia;
+	height: 300px;	
+	width: 800px;
+	font-family: Georgia;
+	font-size: 1.5em;
+}

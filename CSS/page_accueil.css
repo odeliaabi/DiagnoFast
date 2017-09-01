@@ -1,0 +1,273 @@
+
+
+
+
+
+
+div#bandeau {
+	height: 50px;
+	background-color:#98FB98 ;
+	font-size:2em;
+
+	}
+
+
+div#contenu {
+	height: 800px;	
+	background-color: white;
+	background-image:url("../IMAGES/fond1.png");
+	background-repeat: no-repeat;
+
+	
+	}
+div#page1{
+	height: 800px;	
+	background-color: #FDF5E6;
+
+
+}
+div#page2{
+	height: 1000px;	
+	background-color: rgb(171,250,232);
+
+}
+div#page3{
+	height: 800px;	
+	background-color: rgb(143,211,248);
+}
+div#img1{
+	
+	position:absolute;
+	top:3000px;
+	left:150px;
+	font-family: Georgia;
+	font-size: 1.4em;
+}
+div#img2{
+	
+	position:absolute;
+	top:3000px;
+	left:450px;
+	font-family: Georgia;
+	font-size: 1.4em;
+
+}
+div#img3{
+	
+	position:absolute;
+	top:3000px;
+	left:750px;
+	font-family: Georgia;
+	font-size: 1.4em;
+
+}
+div#img4{
+	
+	position:absolute;
+	top:3000px;
+	left:1050px;
+	font-family: Georgia;
+	font-size: 1.4em;
+
+	
+}
+div#img5{
+	
+	position:absolute;
+	top:3000px;
+	left:1350px;
+	font-family: Georgia;
+	font-size: 1.4em;
+
+}
+div#img6{
+	
+	position:absolute;
+	top:3000px;
+	left:1650px;
+	font-family: Georgia;
+	font-size: 1.4em;	
+}
+div#img1 img,div#img2 img,div#img3 img,div#img4 img,div#img5 img,div#img6 img {
+    border-radius: 50%;
+    }
+div#piedpage {
+	height: 100px;
+	background-color:rgb(1,165,74);
+	font-size: 2em;
+	font-family: Georgia;
+	}
+div#presentation_diagnofast h1 {
+	
+font-size:5em;
+font-family:Georgia;
+
+position:absolute;
+	top: 500px;
+	bottom: 600px;
+	left:730px;
+	right:900px;
+}
+div #logo img{
+	height: 400px;
+	width:400px;
+	position:absolute;
+	top:150px;
+	left:770px;
+
+}
+div#presentation_description{
+	font-size:3em;
+font-family:Georgia;
+
+font-style: italic;
+position:absolute;
+	top: 700px;
+	
+	left:650px;
+	
+
+	
+}
+div#page1 h1{
+	 padding-top:20px;
+    padding-bottom:10px;
+    font-size:2.5em;
+    background-color: rgb(97,250,92);
+}
+div#page2 h1{
+	 padding-top:20px;
+    padding-bottom:10px;
+    font-size:2.5em;
+    background-color: rgb(97,250,92);
+}
+div#page3 h1{
+	 padding-top:20px;
+    padding-bottom:10px;
+    font-size:2.5em;
+    background-color: rgb(97,250,92);
+}
+article{
+	font-family: Georgia;
+	text-align:justify;
+	font-size: 1.5em;
+	margin-left:60px;
+}
+article img{
+	height: 800px;
+	width:1600px;
+	position:absolute;
+
+}
+
+article p {
+	font-family: Georgia;
+	text-align:justify;
+	font-size: 1em;
+}
+
+div#bouton {
+display:block;
+text-align:center;
+color:black;
+
+position:absolute;
+	top: 1000px;
+	
+	left:900px;
+}
+div#info
+{
+	font-size: 1.8em;
+}
+div#patientb
+{
+position:absolute;
+margin-top: 35px;
+margin-left: 50px;
+}
+div#un
+{
+position:absolute;
+margin-top: 235px;
+margin-left: 50px;
+}
+div#deux
+{
+position:absolute;
+margin-top: 435px;
+margin-left: 50px;
+}
+div#trois
+{
+position:absolute;
+margin-top: 635px;
+margin-left: 50px;
+}
+div#flechedte
+{
+position:absolute;
+margin-top: 100px;
+margin-left: 300px;
+}
+div#flechegch
+{
+position:absolute;
+margin-top: 100px;
+margin-left: 600px;
+}
+div#ordi
+{
+position:absolute;
+margin-top: 280px;
+margin-left: 450px;
+}
+div#Pro
+{
+position:absolute;
+margin-top: 35px;
+margin-left: 873px;
+}
+div#quatre
+{
+position:absolute;
+margin-top: 235px;
+margin-left: 873px;
+}
+div#cinq
+{
+position:absolute;
+margin-top: 435px;
+margin-left: 873px;
+
+}
+div#six
+{
+position:absolute;
+margin-top: 635px;
+margin-left: 873px;
+}
+div#bracelet
+{
+position:absolute;
+margin-top: 35px;
+margin-left:1720px;
+}
+div#step1pat
+{
+position:absolute;
+margin-top: 235px;
+margin-left: 1720px;
+}
+div#step2pat
+{
+position:absolute;
+margin-top: 435px;
+margin-left: 1720px;
+}
+div#step3pat
+{
+position:absolute;
+margin-top: 635px;
+margin-left: 1720px;
+}
